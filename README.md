@@ -6,3 +6,5 @@ Often, work is not visible until it is abandoned or completed. I have been worki
 2) Organizing "Azure Immersive experience summit", where I share a bootcamp to concentrate the best experts in Azure Stack / HCI / Azure IoT (IoTOperations) / AIoT in a weekend.
 3) Completing an Azure DataHub in .NET, and transitioning it to .NET Aspire.
 4) Trying to relaunch groups with face-to-face events through the OsonaMakers and AzureIoT groups on LinkedIn.
+
+To get more info please turn around inside every point. And remember if you want getconnected check AzureIoT User group, or OsonaMakers at osonamakers( at )gmail.com
