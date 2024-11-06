@@ -1,4 +1,4 @@
-# Hidden jobs for projects to run in 2025
+# Hidden jobs (work 2024) for projects to run in 2025
 
 Often, work is not visible until it is abandoned or completed. I have been working very hard for the last two years on four main areas:
 
