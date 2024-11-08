@@ -2,7 +2,7 @@
 
 ![image](/_1_OsonaMakers_Hardware/images/SensorBox_1.jpg)
 
-![image](/_1_OsonaMakers_Hardware/images/SensorBox_2.jpg)
+![image](/_1_OsonaMakers_Hardware/images/SensorBox_2.jpeg)
 
 ![image](/_1_OsonaMakers_Hardware/images/OsonaMakers_HW1.jpg)
 
